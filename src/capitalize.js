@@ -8,5 +8,3 @@ const capitalize = (text) => {
   };
 
   export default capitalize;
-
-  capitalize('hello')
